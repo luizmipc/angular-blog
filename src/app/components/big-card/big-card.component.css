@@ -1,0 +1,10 @@
+.container__big-card {
+	border: solid white 2px;
+	width: 400px;
+	height: 600px;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+}
